@@ -6,3 +6,5 @@ reset 연습중
 
 hello~
 
+see you chapter 3!
+
